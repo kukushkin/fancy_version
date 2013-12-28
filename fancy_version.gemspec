@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["alex@kukushk.in"]
   spec.description   = %q{Generates a fancy codename reflecting your application's version}
   spec.summary       = %q{Generates a fancy codename reflecting your application's version}
-  spec.homepage      = ""
+  spec.homepage      = "http://github.com/kukushkin/fancy_version"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
